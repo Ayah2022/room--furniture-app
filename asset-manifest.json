@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/room--furniture-app/static/css/main.2648c70b.css",
-    "main.js": "/room--furniture-app/static/js/main.ae47290a.js",
+    "main.js": "/room--furniture-app/static/js/main.9ade2666.js",
     "static/js/453.8c4b345e.chunk.js": "/room--furniture-app/static/js/453.8c4b345e.chunk.js",
     "static/media/slick.svg": "/room--furniture-app/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/room--furniture-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/room--furniture-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/room--furniture-app/index.html",
     "main.2648c70b.css.map": "/room--furniture-app/static/css/main.2648c70b.css.map",
-    "main.ae47290a.js.map": "/room--furniture-app/static/js/main.ae47290a.js.map",
+    "main.9ade2666.js.map": "/room--furniture-app/static/js/main.9ade2666.js.map",
     "453.8c4b345e.chunk.js.map": "/room--furniture-app/static/js/453.8c4b345e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2648c70b.css",
-    "static/js/main.ae47290a.js"
+    "static/js/main.9ade2666.js"
   ]
 }
